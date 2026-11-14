@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opendef-skills": {
+      "type": "http",
+      "url": "https://skills.opendef.com/api/skills/mcp"
+    }
+  }
+}

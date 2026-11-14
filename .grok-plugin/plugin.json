@@ -1,0 +1,6 @@
+{
+  "name": "opendef",
+  "description": "OpenDef Skills MCP server — discover and load agent skills over MCP",
+  "version": "1.0.0",
+  "author": "OpenDef"
+}
